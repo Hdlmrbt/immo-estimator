@@ -1,0 +1,1 @@
+il faut lancer python ml/train.py pour générer le joblib
